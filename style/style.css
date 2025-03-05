@@ -20,3 +20,13 @@ h1{
 body{
     background-image: url(https://i.pinimg.com/736x/cd/f4/84/cdf48431e65c664ca612cd2a336b0f1b.jpg);
 }
+#c1,#c2,#c3{
+        color: white;
+        background: linear-gradient(45deg, rgb(147,213,203), rgb(74, 207, 196));
+        text-align: center;
+        padding: 10px;
+        border-radius: 15px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        font-family: 'Arial Rounded MT Bold', sans-serif;
+    }
+    
