@@ -1,8 +1,9 @@
 h1{
     color: white;
-    background-color: rgb(147,213,203);
+    background: linear-gradient(rgb(147,213,203), rgb(50, 183, 172));
     text-align: center;
     padding: 30px;
+    font-family: 'Courier New', Courier, monospace;
 }
 #c0{
     color: white;
@@ -25,11 +26,11 @@ body{
 }
 #c1,#c2,#c3{
         color: white;
-        background: linear-gradient(45deg, rgb(147,213,203), rgb(74, 207, 196));
+        background: linear-gradient(rgb(147,213,203), rgb(202, 238, 235));
         text-align: center;
         padding: 10px;
         border-radius: 15px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        box-shadow: 0 4px 8px rgb(0, 176, 162);
         font-family: 'Arial Rounded MT Bold', sans-serif;
     }
 
