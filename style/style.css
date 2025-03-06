@@ -1,8 +1,8 @@
 h1{
     color: white;
-    background: linear-gradient(rgb(147,213,203), rgb(50, 183, 172));
+    background: linear-gradient(rgb(50, 182, 162), rgb(174, 224, 220));
     text-align: center;
-    padding: 30px;
+    padding: 10px;
     font-family: 'Courier New', Courier, monospace;
 }
 #c0{
